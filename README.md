@@ -1,6 +1,8 @@
 # Portfolio
 
-This is a modern, responsive portfolio website built with Next.js, TypeScript, Tailwind CSS, and ESLint using the App Router. 
+This is a modern, responsive portfolio website built with Next.js, TypeScript, Tailwind CSS, and ESLint using the App Router.
+
+> **Note:** This portfolio was created and iteratively improved with the help of GitHub Copilot.
 
 ## Features
 - Homepage, About, Projects, and Contact sections
