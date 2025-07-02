@@ -107,7 +107,7 @@ export default function Home() {
           height={96}
           className="rounded-full border-4 border-gray-200 dark:border-gray-700 shadow-lg"
         />
-        <h1 className="text-3xl sm:text-4xl font-bold text-center text-gray-900 dark:text-white">Hi, I'm Alastair!</h1>
+        <h1 className="text-3xl sm:text-4xl font-bold text-center text-gray-900 dark:text-white">Hi, I&apos;m Alastair!</h1>
         <p className="text-lg text-center text-gray-600 dark:text-gray-300 max-w-xl">I am a DEVOPS Engineer working on Web applciations using TypeScript, Dynamics365 and Sharepoint Development.</p>
       </header>
 
